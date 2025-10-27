@@ -69,7 +69,7 @@ author:
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
     - Label: "Email"
-      icon: "<i class="fa-solid fa-envelope"></i>
+      icon: "fa-solid fa-envelope"
       url: "mfatemi@gradcenter.cuny.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,7 +78,7 @@ author:
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
      - Label: "LinkedIn"
-       icon: <i class="fa-brands fa-linkedin"></i>
+       icon: "fa-brands fa-linkedin"
        url: "https://www.linkedin.com/in/maryam-fatemi-51904b123/"
 
 footer:
