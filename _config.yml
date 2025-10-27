@@ -69,17 +69,17 @@ author:
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
     - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "mfatemi@gradcenter.cuny.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mfatemi@gradcenter.cuny.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/maryam-fatemi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/maryam-fatemi-51904b123/"
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
-     - label: "LinkedIn"
-       icon: "fa-brands fa-linkedin"
-       url: "https://www.linkedin.com/in/maryam-fatemi-51904b123/"
 
 footer:
   links:
