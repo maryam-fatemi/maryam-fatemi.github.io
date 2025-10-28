@@ -11,8 +11,10 @@ author_profile: true
   font-size: 0.8rem;
   line-height: 1.3;
   text-align: justify;
+  margin-top: 20px; /* add space at the top */
 }
 </style>
+
 
 I am a Ph.D. candidate in Economics at the City University of New York – The Graduate Center.
 
