@@ -11,13 +11,14 @@ author_profile: true
 </style>
 
 <!-- Your content starts here -->
-Write your teaching experience text below this line. You can use Markdown:
 
-### Courses Taught
-- Health Economics (Adjunct Lecturer), CUNY — 2024–present  
-  - Topics: payment models, DiD, RWE
+### Primary Instructor
+ECO 375: Health Economics
 
-### Teaching Interests
-- Econometrics, Health Policy, Data Science for Health
+Spring 2025, Spring 2024
 
-(Add more sections as you like…)
+City University of New York – Hunter College
+
+This course examines the economic principles underlying the healthcare system, including the behavior of consumers and providers, insurance markets, and the impact of public policies on health outcomes and costs. Students explore topics such as healthcare access, efficiency, and equity using microeconomic tools and empirical evidence.
+
+### Teaching Assistant
