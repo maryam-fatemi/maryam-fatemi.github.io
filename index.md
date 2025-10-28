@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-{: style="font-size: 0.9em;"}
+{: style="font-size: 0.7em;"}
 
 I am a Ph.D. candidate in Economics at the City University of New York – The Graduate Center.
 
