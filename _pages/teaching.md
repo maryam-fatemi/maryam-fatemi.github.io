@@ -21,7 +21,6 @@ author_profile: true
 </style>
 
 ### Primary Instructor
-<br>
 
 ECO 375: Health Economics
 
@@ -32,3 +31,9 @@ City University of New York – Hunter College
 This course examines the economic principles underlying the healthcare system, including the behavior of consumers and providers, insurance markets, and the impact of public policies on health outcomes and costs. Students explore topics such as healthcare access, efficiency, and equity using microeconomic tools and empirical evidence.
 
 ### Teaching Assistant
+
+ECO 221: Economic Statistics
+
+Fall 2024, Fall 2023, Fall 2022
+
+City University of New York – Hunter College
