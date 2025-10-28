@@ -1,0 +1,10 @@
+/* Make text smaller on about page */
+.page__content {
+  font-size: 0.95rem;     /* Try 0.9rem if still too big */
+  line-height: 1.6;
+}
+
+/* Optional: Make headings smaller too */
+.page__content h1 { font-size: 2rem; }
+.page__content h2 { font-size: 1.5rem; }
+.page__content h3 { font-size: 1.2rem; }
