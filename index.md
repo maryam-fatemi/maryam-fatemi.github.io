@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 
-{: style="font-size: 0.7em;"}
-
 I am a Ph.D. candidate in Economics at the City University of New York – The Graduate Center.
 
 My research focuses on evaluating large-scale healthcare reforms and their impact on population health and health behaviors. My dissertation examines Maryland’s All-Payer and Total Cost of Care models, using data from the Behavioral Risk Factor Surveillance System (BRFSS) to uncover how innovative payment structures shape care delivery and outcomes.
