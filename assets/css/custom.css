@@ -1,7 +1,5 @@
-/* Make profile image larger */
-.author__avatar img {
-  width: 220px !important;
-  height: 220px !important;
-  border-radius: 50% !important;
-  object-fit: cover;
-}
+    .author__avatar {
+      width: 80px; /* Adjust as needed */
+      height: 80px; /* Adjust as needed */
+      border-radius: 50%; /* Keeps it circular */
+    }
