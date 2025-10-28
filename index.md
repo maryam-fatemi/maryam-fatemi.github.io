@@ -11,7 +11,6 @@ author_profile: true
   font-size: 0.8rem;
   line-height: 1.3;
   text-align: justify;
-  margin-top: 10px; /* add space at the top */
 }
 </style>
 
