@@ -10,6 +10,7 @@ author_profile: true
 .page__content {
   font-size: 0.8rem;
   line-height: 1.3;
+  text-align: justify;
 }
 </style>
 
