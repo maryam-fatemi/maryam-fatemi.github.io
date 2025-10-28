@@ -1,4 +1,24 @@
 <style>
-  .author__avatar { width: 240px !important; }
-  .author__avatar img { width: 100% !important; height: auto !important; border-radius: 50% !important; object-fit: cover; }
+  /* Make the sidebar a bit wider so the avatar can grow */
+  .sidebar {
+    width: 320px !important;
+  }
+
+  /* Force a larger circular avatar in all layouts/breakpoints */
+  .author__avatar {
+    width: 260px !important;   /* try 240–280px */
+  }
+  .author__avatar img {
+    width: 260px !important;
+    height: 260px !important;
+    border-radius: 50% !important;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* If the theme shrinks the avatar in media queries, override them too */
+  @media (min-width: 64em) {
+    .author__avatar { width: 260px !important; }
+    .author__avatar img { width: 260px !important; height: 260px !important; }
+  }
 </style>
