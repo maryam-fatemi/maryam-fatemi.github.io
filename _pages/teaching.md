@@ -21,7 +21,7 @@ author_profile: true
 </style>
 
 ### Primary Instructor
-
+<br>
 
 ECO 375: Health Economics
 
