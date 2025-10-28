@@ -57,6 +57,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+stylesheets:
+  - /assets/css/custom.css  
+
 author:
   name   : "Maryam Fatemi"
   avatar : "/assets/images/Maryam_profile_1.png"
