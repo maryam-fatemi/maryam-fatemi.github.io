@@ -6,16 +6,16 @@
 @import "minimal-mistakes";
 
 // Your overrides
-.author__avatar { width: 80px; /* Adjust the value to your desired width */
-height: 80px; /* Adjust the value to match the width */
-max-width: 175px; /* Optional: Set a maximum width */
+.author__avatar { width: 220px; /* Adjust the value to your desired width */
+height: 220px; /* Adjust the value to match the width */
+max-width: 260px; /* Optional: Set a maximum width */
 border-radius: 50%; /* Optional: Make the avatar circular */
 padding: 5px; /* Optional: Add padding around the avatar */
 border: 1px solid $border-color; /* Optional: Add a border */
  }
-.author__avatar img { width: 80px; /* Adjust the value to your desired width */
-height: 80px; /* Adjust the value to match the width */
-max-width: 175px; /* Optional: Set a maximum width */
+.author__avatar img { width: 220px; /* Adjust the value to your desired width */
+height: 220px; /* Adjust the value to match the width */
+max-width: 260px; /* Optional: Set a maximum width */
 border-radius: 50%; /* Optional: Make the avatar circular */
 padding: 5px; /* Optional: Add padding around the avatar */
 border: 1px solid $border-color; /* Optional: Add a border */
